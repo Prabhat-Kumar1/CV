@@ -540,6 +540,16 @@ section {
   background-size: cover;
   min-height: 500px;
 }
+.project1 {
+  background: url("../img/project1.png");
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+.style11 {
+	height: 6px;
+	background: url(http://ibrahimjabbari.com/images/hr-11.png) repeat-x 0 0;
+    border: 0;
+}
 .about .skills-content {
   margin-top: 30px;
 }
